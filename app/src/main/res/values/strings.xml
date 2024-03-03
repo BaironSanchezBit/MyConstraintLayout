@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Constraint Layout</string>
+    <string name="solicitud_de_transporte_de_carga">Solicitud de Transporte de Carga</string>
+    <string name="descripci_n_de_la_carga">Descripción de la Carga</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="dimensiones_largo_x_ancho_x_alto">Dimensiones (largo x ancho x alto)</string>
+    <string name="ubicaci_n_de_recogida">Ubicación de Recogida</string>
+    <string name="ubicaci_n_de_entrega">Ubicación de Entrega</string>
+    <string name="fechas_estimadas_de_entrega">Fechas Estimadas de Entrega</string>
+    <string name="publicar_solicitud">Publicar Solicitud</string>
+</resources>
